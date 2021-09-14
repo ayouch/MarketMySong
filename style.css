@@ -11,7 +11,7 @@ section{
   height: 300vh;
 }
 .gotopbtn{
-  position: fixed;
+  position: center;
   width: 50px;
   height: 50px;
   background: #27ae60;
@@ -19,7 +19,7 @@ section{
   right: 50px;
 
   text-decoration: none;
-  text-align: left;
+  text-align: center;
   line-height: 50px;
   color: white;
   font-size: 22px;
