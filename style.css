@@ -9,8 +9,6 @@ body{
 section{
   width: 100%;
   height: 300vh;
-  background: url(bg.jpg) no-repeat;
-  background-size: cover;
 }
 .gotopbtn{
   position: fixed;
