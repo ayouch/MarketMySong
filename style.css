@@ -19,8 +19,8 @@ section{
   right: 50px;
 
   text-decoration: none;
-  text-align: initial;
+  text-align: inherit;
   line-height: 50px;
   color: white;
-  font-size: 22px;
+  font-size: 30px;
 }
